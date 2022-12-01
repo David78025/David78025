@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @David78025 but you can callme only David
+- 👋 Hi, I’m @David78025 but you can callme just David
 - 👀 I’m interested in be a programmer and a musician
 - 🌱 I’m currently learning HTML and Java script
 - 💞️ I’m looking to collaborate on anithyng interesting
